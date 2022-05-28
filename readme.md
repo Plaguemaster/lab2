@@ -25,7 +25,10 @@ Part II
 7.commit, push.
 ![изображение](https://user-images.githubusercontent.com/65495621/170831711-7b93da9b-9760-4414-9101-e4c22ce8a20e.png)
 ![изображение](https://user-images.githubusercontent.com/65495621/170831786-7d7b5573-b2e3-4590-9442-a359f274a902.png)
-
+![изображение](https://user-images.githubusercontent.com/65495621/170831902-e04d39a4-2f3a-49b0-9f27-76d80693ba5b.png)
+Локально выполните pull.
+С помощью команды git log просмотрите историю в локальной версии ветки master.
+Удалите локальную ветку patch1.
 
 
 
