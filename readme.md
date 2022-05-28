@@ -20,5 +20,12 @@ Part II
 3.commit, push локальную ветку в удалённый репозиторий.
 ![изображение](https://user-images.githubusercontent.com/65495621/170831470-26270133-6f63-48cc-b5d3-568332497297.png)
 4.Проверьте, что ветка patch1 доступна в удалёный репозитории.
+5.Создайте pull-request patch1 -> master.
+6.В локальной копии в ветке patch1 добавьте в исходный код комментарии.
+7.commit, push.
+![изображение](https://user-images.githubusercontent.com/65495621/170831711-7b93da9b-9760-4414-9101-e4c22ce8a20e.png)
+![изображение](https://user-images.githubusercontent.com/65495621/170831786-7d7b5573-b2e3-4590-9442-a359f274a902.png)
+
+
 
 
