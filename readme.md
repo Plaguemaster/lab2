@@ -29,6 +29,14 @@ Part II
 Локально выполните pull.
 С помощью команды git log просмотрите историю в локальной версии ветки master.
 Удалите локальную ветку patch1.
+Part III
+Создайте новую локальную ветку patch2.
+Измените code style с помощью утилиты clang-format. Например, используя опцию -style=Mozilla.
+![изображение](https://user-images.githubusercontent.com/65495621/170832615-ce200d2c-6e65-481b-a0ba-4cb6c1b0ea77.png)
+commit, push, создайте pull-request patch2 -> master.
+![изображение](https://user-images.githubusercontent.com/65495621/170832747-c41fa917-1dce-4043-9595-3bdffcafd68a.png)
+
+
 
 
 
